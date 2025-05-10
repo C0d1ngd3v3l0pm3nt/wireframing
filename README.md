@@ -37,3 +37,11 @@ Wireframing is the process by which a blueprint or a skeletal framework of an ap
 - Saves time and resources since it reduces the possibility of errors and help focus time on what needs to be worked on.
 - Enables easy modifications that encourage experimentation and iterrative development.
 - Helps focus the designers' attention to functionality and usability as well as the user experience.
+
+## Wireframing in Practice
+Postmates is a food delivery service in Australia. They aimed at enhancing user experience by improving their courier interface. By creating a wireframe, they were able to identify the following issues:
+  - With no clear direction, couriers had difficulty navigating their app.
+  - Their user interface gave too much information at once leading to cognitive overload.
+  - Certain tasks had a lot of steps that were unnecessary and slowed the completion of tasks.
+
+By wireframing, they were able to identify these issues and address them. This led to the creation of a more intuitive user experience for couriers which led to better service delivery.
