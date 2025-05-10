@@ -7,7 +7,7 @@ Wireframing is the process by which a blueprint or a skeletal framework of an ap
 - **Content placement**-Indicates where different icons and content will be placed
 - **Functionality**-Otlines key elements and interactions
 
-  ## Types of wireframes
+  ## Types of Wireframes
   ### Low fidelity wireframes
   - Low fidelity is the most basic type of wireframing. It’s so simplistic, that paper and pen will still suffice as a way to represent your idea.
   - Low fidelity wireframes are done in grayscale with a focus on layout and high-level interactions. UI elements and content are represented by basic shapes like squares, triangles, circles, and line
